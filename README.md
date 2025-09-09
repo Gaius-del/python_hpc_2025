@@ -5,4 +5,4 @@
 * (2) Then we will introduce the threads, processes and the Global Interpreter lock and we will leverage first numba then dask to use all available cores on a machine
 * (3) Finally we will distribute computations across multiple nodes launching dask workers on a separate Expanse job.
 
-**Presented by:** [Andrea Zonca](https://www.sdsc.edu/research/researcher_spotlight/zonca_andrea.html)
+**Presented by:** [Andrea Zonca](https://www.sdsc.edu/research/researcher_spotlight/zonca_andrea.html), Lead of the Scientific Computing Applications Group. Our purpose is to help US scientists use high-performance computing and AI resources effectively, including supercomputers not at SDSC. You can find my email and contact information on my profile page.
